@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Working With Virtual Machines</b>
-  - [Actice Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Actice Directory Home Lab](https://github.com/GavinCyberSec/AD-Lab)
 - <b>Penetration Testing</b>
   - [Attacking Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
  
